@@ -2834,7 +2834,7 @@ a:hover , .btn-link:hover{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#332c3e4f', endColorstr='#c42c3e4f',GradientType=0 );
 }
 .fables-main-background-color ,.fables-main-before a::before , .fables-main-before a::after ,.fables-main-active.active , .fables-main-dots .owl-dot.active span ,.fables-main-hover-background-color:hover{
-    background-color: #2C3E4F !important;
+    background-color: #fafafa !important;
 }
 .fables-main-text-color{
     color: #2C3E4F ;
