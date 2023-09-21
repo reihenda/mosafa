@@ -171,7 +171,8 @@ body{
 }
 .fables-header { 
     padding: 33px 0;
-    background-image: url(../images/pages-header-background.jpg); 
+    background-image: url(../images/about-atas.png);
+     
 }
 .fables-after-overlay{
     position: relative; 
@@ -2415,7 +2416,7 @@ body{
     left: -1px;
 }
 .fables-choose-background{
-    background-image: url("../images/choose-us-background.jpg"); 
+    background-image: url("../images/home.jpeg"); 
 }
 .colored-table .table-badge{
     left: -24px;
@@ -2837,7 +2838,7 @@ a:hover , .btn-link:hover{
     background-color: #fafafa !important;
 }
 .fables-main-text-color{
-    color: #2C3E4F ;
+    color: #2e3092 ;
 }
 .fables-main-hover-color:hover  {
     color: #2C3E4F ;
@@ -3214,10 +3215,10 @@ a.toggle-menu{
 }
 .translate-effect-right img{ 
     max-width: none !important;
-    width: calc(100% + 60px) !important;
+    width: calc(100% + 20px) !important;
     transition: opacity .35s,transform .45s;
     -webkit-transform: translate3d(-40px,0,0);
-    transform: translate3d(-36px,0,0);
+    transform: translate3d(-20px,0,0);
 }
 .translate-effect-right:hover img {
     opacity: .6;
